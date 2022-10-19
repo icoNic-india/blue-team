@@ -1,6 +1,2 @@
-# blue-team
-
-Blue Team Scripts
-
-* Tested on Debian 9
+IPtables script modifyied to read any iptables files stored on your system with iptables.rules as a filename and analyze it.
 
